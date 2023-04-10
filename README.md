@@ -10,4 +10,4 @@
   <li>Анимация битов</li>
   <li>Анимация графика битов</li>
 </ol>
-<a href="app.diagrams.net">Scheme editor </a>
+<a href="https://app.diagrams.net">Scheme editor </a>
