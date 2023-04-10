@@ -1,4 +1,3 @@
-# computer system architecture lab
 <h1>Лабораторная работа по Организации ЭВМ и Систем</h1>
 <p>Задание:</p>
 <ol start="1">
