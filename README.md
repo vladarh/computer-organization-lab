@@ -1,2 +1,2 @@
-# computer-organization-lab
+# computer system architecture lab
 Лабораторная работа по Организации ЭВМ и Систем
